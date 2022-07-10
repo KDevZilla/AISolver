@@ -10,7 +10,9 @@ This is a project that uses Artificial Intelligence to solve the problem.
 You have $1250\
 This is list of item prices :30,50,75,150,200,300\
 How many items do you need to choose to make the summary be $1250\
-if you cannot make it, can you please just choose the value close to $1250 as much as you can?\
+if you cannot make it, can you please just choose the value close to $1250 as much as you can?
+
+
 Here is the answer from using Genetic Algorithm.\
 300,300,200,150,75,50,50,50,50,30
 
