@@ -29,39 +29,39 @@ How do you do?
 Here is an answer from using the BreathFirst search algorithm. 
 Move From Well to Bucket[5]\
 B[6]0\
-B[5]5\
+B[5]5
 
 Move From Bucket[5] to Bucket[6]\
 B[6]5\
-B[5]0\
+B[5]0
 
 Move From Well to Bucket[5]\
 B[6]5\
-B[5]5\
+B[5]5
 
 Move From Bucket[5] to Bucket[6]\
 B[6]6\
-B[5]4\
+B[5]4
 
 Move From Bucket[6] to Well\
 B[6]0\
-B[5]4\
+B[5]4
 
 Move From Bucket[5] to Bucket[6]\
 B[6]4\
-B[5]0\
+B[5]0
 
 Move From Well to Bucket[5]\
 B[6]4\
-B[5]5\
+B[5]5
 
 Move From Bucket[5] to Bucket[6]\
 B[6]6\
-B[5]3\
+B[5]3
 
 Move From Bucket[6] to Well\
 B[6]0\
-B[5]3\
+B[5]3
 
 You can try it yourself with other values.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AISolver_BucketCalculation_01.png)
