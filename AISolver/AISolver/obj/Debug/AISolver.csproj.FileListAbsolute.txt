@@ -1,0 +1,14 @@
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\bin\Debug\AISolver.exe.config
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\bin\Debug\AISolver.exe
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\bin\Debug\AISolver.pdb
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.csprojAssemblyReference.cache
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.FormCrossingRiver.resources
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.Properties.Resources.resources
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.csproj.GenerateResource.cache
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.csproj.CoreCompileInputs.cache
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.exe
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.pdb
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.FormBucketCalculation.resources
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.FormKnapSack.resources
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.FormAbout.resources
+D:\CODE\visual studio 2010\Projects\AISolver\AISolver\AISolver\obj\Debug\AISolver.FormMdiMain.resources
