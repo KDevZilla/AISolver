@@ -124,4 +124,4 @@ The problem is
 # File Structurs in this project
 BreathFirst folder contains programs relate to Bucket calculation.\
 DFS folder contains programs relate to Crossing River problems.\
-GA folder contains programs relate to KnapSack problem.\
+GA folder contains programs relate to KnapSack problem.
