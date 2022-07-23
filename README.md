@@ -22,11 +22,14 @@ You can try it yourself with other values.
 
 ## Bucket Calculation
 There are 30 liters of water in the well.\
-There are 2 buckets the first one can contain 5 liters, the second can contain 6 liters.\
-You would like to have 3 liters of water\
-How do you do?
+There are 2 buckets, the first one can contain 5 liters of water, the second can contain 6 liters.\
+Your goal is to collect 3 liters of water\
+You don't have a 3 liters water bucket.
 
-Here is an answer from using the BreathFirst search algorithm. 
+What do you need to do to achieve the goal using only 5,6 liters buckets?
+
+Here is an answer from using the BreathFirst search algorithm.
+
 Move From Well to Bucket[5]\
 B[6]0\
 B[5]5
@@ -63,36 +66,40 @@ Move From Bucket[6] to Well\
 B[6]0\
 B[5]3
 
-You can try it yourself with other values.
+You can also try it yourself with other values.
+
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AISolver_BucketCalculation_01.png)
 ## Crossing the river problems
 
 	There are 5 problems relates to crossing the river.
 	(https://en.wikipedia.org/wiki/Crossing_the_River)
 	
-1.There are 6 frogs
+Problem #1\
+There are 6 frogs, 
 3 of them are on the left side another 3 of them are on the right side. 
 3 from the left have to jump on the 3 stones on the right and vice versa 
 Each frog can jump just on the adjacent stone or jump over another frog if there is an empty stone behind it
 
 
-2.Four people come to a river in the night. 
-There is a narrow bridge, 
-but it can only hold two people at a time. 
-They have one torch and, because it's night, 
-the torch has to be used when crossing the bridge. 
+Problem #2\
+Four people come to a river in the night.\
+There is a narrow bridge, \
+but it can only hold two people at a time. \
+They have one torch and, because it's night,
+the torch has to be used when crossing the bridge.
 
-Dad can cross the bridge in 1 minute, 
-Mom in 2 minutes, 
-Son in 4 minutes, 
+Dad can cross the bridge in 1 minute, \
+Mom in 2 minutes, \
+Son in 4 minutes, \
 Daughter in 5 minutes. 
 
-When two people cross the bridge together, 
-they must move at the slower person's pace. 
+When two people cross the bridge together, \
+they must move at the slower person's pace. \
 The question is, can they all get across the bridge if the torch lasts only 12 minutes
 
 
-3.These 8 people need to use the raft to cross the river.
+Problem #3\
+These 8 people need to use the raft to cross the river.\
 Father, Mother, Son1, Son2, Daughter1, Daughter2, Policeman, Thief
 
 The problem is
@@ -102,11 +109,13 @@ The problem is
 4. The thief (striped shirt) cannot stay with any family member, if the Policeman is not there.
 5. Only the Father, the Mother and the Policeman know how to operate the raft.
 
-4.Three married couple come to a river. The only vessel available is a small boat
-that can carry at most two of them. How can they cross the river, if at any time,
+Problem #4\
+Three married couple come to a river. The only vessel available is a small boat\
+that can carry at most two of them. How can they cross the river, if at any time,\
 no woman is in the company of any man unless her own husband is present?
 
-5.There are 6 animals need to use a raft to cross the rivers.
+Problem #5\
+There are 6 animals need to use a raft to cross the river.\
 Those 6 animals consist of 3 Lions and 3 Sheeps.
 
 The problem is
